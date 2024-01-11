@@ -1,0 +1,112 @@
+<!--  pre tag-->
+<!--The HTML <pre> element defines preformatted text.
+
+The text inside a <pre> element is displayed in a fixed-width font (usually Courier),
+   and it preserves both spaces and line breaks: -->
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+    <pre>
+      My Bonnie lies over the ocean.
+    
+      My Bonnie lies over the sea.
+    
+      My Bonnie lies over the ocean.
+    
+      Oh, bring back my Bonnie to me.
+    </pre>
+  </Body>
+</html>
+----------------------------------------------------------------------------------------------------------------------------
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+    <b>Mukesh Yadav<br></b>  
+    <strong>Mukesh Yadav<br></strong>
+    <i>Mukesh Yadav<br></i>
+    <em>Mukesh Yadav<br></em>
+    <mark>Mukesh Yadav<br></mark>
+    <small>Mukesh Yadav<br></small>
+    <del>Mukesh Yadav<br></del>
+    <ins>Mukesh Yadav<br></ins>
+    <sub>Mukesh Yadav<br></sub>
+    <sup>Mukesh Yadav<br></sup>
+  </Body>
+</html>
+-----------------------------------------------------------------------------------------------------------------------------------
+HTML <blockquote> for Quotations:-
+The HTML <blockquote> element defines a section that is quoted from another source.
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+    <p>Profile</p>
+    <blockquote>
+      I am Dot Net Developer;
+    </blockquote>
+  </Body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+HTML <q> for Short Quotations:-The HTML <q> tag defines a short quotation.
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+    <p>Mukesh said that <q>I am Dot Net Developer</q></p> 
+  </Body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------
+HTML <address> for Contact Information
+
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+    <address>
+      Sai Residency,<br>
+      Gachibowli
+    </address>
+  </Body>
+</html>
+--------------------------------------------------------------------------------------------------------------------------------------
+HTML <cite> for Work Title:
+The HTML <cite> tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).
+
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+  <p>Mukesh is <cite>Dot Net Developer</cite> </p> 
+  </Body>
+</html>
+
+
+
+
+
