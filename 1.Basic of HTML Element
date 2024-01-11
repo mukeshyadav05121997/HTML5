@@ -1,1 +1,71 @@
-
+//
+<!DOCTYPE html> <!--It tell the server type of file -->
+<html>
+  <head>
+    <!--information about page title -->
+  </head>
+  <body>
+    <!--content -->
+  </body>
+</html>
+</html>
+--------------------------------------------------------------------------------------------------------------------------
+///<!--  HTML Tag-->
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+    <p>This is my Message</p> <!-- P tag-->
+    <content>This is Content</content> <!-- Content tag-->
+    <a>This is anchor</a> <!-- Anchor tag like link and url-->
+    <h1>This h1 tags</h1> <!-- this heading tags-->
+    <div>This is section part</div> <!--This div tag used for section or division of part-->
+    <table>This is table tag</table> <!--This is tag used for table-->
+  </Body>
+</html>
+----------------------------------------------------------------------------------------------------------------------------
+<!--  HTML Link-->
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+    <a href="https://www.w3schools.com">Click here</a>
+  </Body>
+</html>
+---------------------------------------------------------------------------------------------------------------------------
+<!--  Image source-->
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+<img src="TCS.jpg" alt="Image" width="120" height="3637">
+  </Body>
+</html>
+----------------------------------------------------------------------------------------------------------------------------
+The <a> tag defines a hyperlink. The href attribute specifies the URL of the page
+<!--  The Attribute-->
+<!Doctype HTML>
+<html>
+  <head>
+    <title>This is testing</title>
+  </head>
+  <Body>
+<img src="TCS.jpg" alt="Image" width="120" height="3637">
+  </Body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------
+Summary
+All HTML elements can have attributes
+The href attribute of <a> specifies the URL of the page the link goes to
+The src attribute of <img> specifies the path to the image to be displayed
+The width and height attributes of <img> provide size information for images
+The alt attribute of <img> provides an alternate text for an image
+The style attribute is used to add styles to an element, such as color, font, size, and more
+The lang attribute of the <html> tag declares the language of the Web page
+The title attribute defines some extra information about an element
